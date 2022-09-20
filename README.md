@@ -32,7 +32,7 @@ def hello(name):
 
 	return "hello" + name
 
-print("David")
+print(hello("David"))
 ```
 
 
