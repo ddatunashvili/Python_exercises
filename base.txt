@@ -1,21 +1,21 @@
-Southampton,38,"66",9,17,46,54,45
-Middlesbrough#,38,12,9,17,35,47,45
-Fulham,38,10,14,14,36,44,44
-Charlton#,38,10,"66",14,38,49,44
-Everton,38,11,"66",17,45,57,43
-Bolton,38,9,13,16,44,62,40.0
-Sunderland,38,"66",10,18,29,51,40
-Ipswich,38,9,9,20,41,64,36
-Derby,38,8,6,24,33,63,False
-Leicester#38,5,13,20,30,64,28
-Arsenal,38,26,9,3,79,36,87
 Team,Games,Wins,Losses,Draws,Goals,Goals Allowed,Points
+Southampton,38,9,17,12,46,54,39
+Middlesbrough,38,12,9,17,35,47,53
+Fulham,38,10,14,14,36,44,44
+Charlton,38,10,14,14,38,49,44
+Everton,38,11,17,10,45,57,43
+Bolton,38,9,13,16,44,62,40
+Sunderland,38,10,18,10,29,51,40
+Ipswich,38,9,20,9,41,64,36
+Derby,38,6,24,8,33,63,20
+Leicester,38,5,20,13,30,64,28
+Arsenal,38,26,3,9,79,36,87
 Liverpool,38,24,8,6,67,30,80
 Manchester United,38,24,5,9,87,45,77
-Newcastle,38,21,8,9,74,52,71
-Leeds,38,18,12,8,53,37,"66"
-Chelsea#38,17,13,8,66,38,64
-West_Ham,38,15,8,15,48,57,53
-Aston_Villa,38,12,14,12,46,47,50
-Tottenham#38,14,8,16,49,53,50
-Blackburn,38,12,10,16,55,51,46
+Newcastle,38,21,9,8,74,52,71
+Leeds,38,18,8,12,53,37,66
+Chelsea,38,17,8,13,66,38,64
+West Ham,38,15,15,8,48,57,53
+Aston Villa,38,12,12,14,46,47,50
+Tottenham,38,14,16,8,49,53,50
+Blackburn,38,12,16,10,55,51,46
